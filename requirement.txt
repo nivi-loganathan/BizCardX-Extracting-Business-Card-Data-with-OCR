@@ -1,0 +1,8 @@
+streamlit
+pandas
+easyocr
+mysql-connector-python
+Pillow
+opencv-python-headless
+matplotlib
+streamlit-option-menu
